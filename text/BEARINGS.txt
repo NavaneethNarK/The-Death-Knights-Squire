@@ -1,0 +1,20 @@
+Your primal instinct, your danger sense, is
+clamouring, warning you that danger is close
+at hand. You don't know the nature of that
+danger, but experience tells you that it's
+likely a strong enemy is nearby.
+It is as if the air itself has been sucked out of
+this place. The crypt sits silent and pale as
+bone on the far side, shaded by the trees
+which border this graveyard
+Suddenly you fancy you hear the neigh of a
+horse, as if heard from far away, almost like
+an echo..
+Your barbarian danger sense means that you
+have advantage on any dexterity saving
+throws you make while in this graveyard.
+♦ To move through the rows of gravestones
+towards the crypt, despite your instincts,
+go to entry SOFTLY
+♦ To leave this place, go to
+LEAVECEMETERY 

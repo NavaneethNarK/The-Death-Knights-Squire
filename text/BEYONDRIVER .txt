@@ -1,0 +1,4 @@
+You give the walls and floor a pretty good
+search, but find no traps.
+You continue down the tunnel.
+♦ Go to entry MOVEWITHIN

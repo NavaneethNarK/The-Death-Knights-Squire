@@ -1,0 +1,12 @@
+As you enter the passage, you check
+thoroughly for traps ahead.
+Make a perception roll, DC 14. If you have a
+hand-drawn map that you picked up in your
+travels, you may make this roll with
+advantage.
+♦ If you are successful, go to entry
+PASSAGETRAPS
+♦ If you are unsuccessful, go to entry
+ITLLBEFINE
+♦ If you prefer not to try, go to entry
+DOGLEG

@@ -1,0 +1,27 @@
+Searching around the nooks and crannies,
+you find a few trinkets, items of worship and
+other things, mostly worthless.
+Then you come across a pile of books, stacked
+against the wall. Rummaging quickly
+through them, you find a scroll, a little bit
+flattened, but then, unrolling it you see
+eldritch runes meticulously written in red
+ink. At the bottom, in small writing, you see
+the following words printed in a neat hand:
+A Scroll of Curing Wounds, gifted by
+the gracious cleric Kagnar the
+Indefatigable. All glory to
+Amaunator!
+What a find! You stow the scroll in your
+backpack, feeling much better about how
+things are turning out! This is bound to come
+in handy.
+(Add a Spell scroll, Cure wounds, 1st Level, to
+your inventory. This scroll, when used, will
+restore 1d8+2 hp to the user).
+♦ To investigate the image of Amaunator,
+go to entry INSPECTALTAR
+♦ If you have already inspected the altar,
+you become mindful that time is pressing,
+and you leave this underground chamber.
+Go to entry LEAVECHAMBER 

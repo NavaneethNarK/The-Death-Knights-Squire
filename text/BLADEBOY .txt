@@ -1,0 +1,36 @@
+Darek has managed to cut himself free and
+has gotten to his feet. He is shaky, but there
+is a light in his eyes. You remember Lord
+Brewmont, and how honourable he seemed…
+perhaps there is a little bit of the warrior in
+this boy too!
+Roll initiative for Darek (straight d20) and
+have him enter the fray with whatever
+weapon he is holding. Stats for Darek are
+below. Place his token at the wall of the
+chamber.
+
+Darek Brewmont
+Medium Humanoid, LG
+Armour Class 10
+Hit Points 4
+Speed 30 ft.
+
+STR		DEX		CON
+10 (0)	10 (0)	10 (0)
+
+INT		WIS		CHA
+10 (0)	10 (0)	10 (0)
+
+
+Senses Pass Perc 10
+Proficiency Bonus +2
+Languages Common
+ATTACKS
+Use the stats for whichever blade
+you have supplied him with, no
+modifiers. Straight d20 to attack.
+
+The Death Knight will not attack Darek
+until you are dead, so stay alive!
+♦ Go to entry YOURATTACK

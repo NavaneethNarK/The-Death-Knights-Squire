@@ -1,0 +1,14 @@
+You tie your horse up to the tavern’s porch
+and join the old man, who directs a young
+boy to bring you a frothing tankard of ale.
+The boy also brings a bowl of stew for you to
+eat.
+“What brings you out this way?” the old
+man asks eventually.
+♦ Do you tell him of your
+quest? If so, go to entry
+QUESTCONVO.
+♦ If you choose to simply
+replenish yourself and be on
+your way, go to entry
+REPLENISH. 

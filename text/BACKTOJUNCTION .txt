@@ -1,0 +1,14 @@
+As you are heading south back towards the
+four-way junction, you hear a crack of
+thunder overhead, followed by a hollow,
+ragged laugh, coming from the direction of
+the cemetery. A sense of urgency overcomes
+you… you sense, in the pit of your stomach,
+that time is running out for Darek
+Brewmont.
+♦ To ignore your instincts and head south
+anyway, go to IGNOREINSTINCTS
+♦ To return to the cemetery, go to tilepage
+10 and follow the directions there
+(ignoring anything you have already
+encountered or investigated)

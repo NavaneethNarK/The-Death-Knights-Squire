@@ -1,0 +1,9 @@
+The little fairy flutters towards you across
+the stream and lands on your shoulder.
+“What blessing would you like me to
+bestow?” Plumeria asks you. “Expertise or
+endurance?”
+♦ If you choose expertise, go to
+EXPERTISE
+♦ If you choose endurance, go to
+ROBUSTNESS

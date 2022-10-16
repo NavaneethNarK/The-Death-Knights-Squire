@@ -1,0 +1,14 @@
+You bravely stand your
+ground, and place a hand on
+your weapon, fixing the new arrivals with a
+steely gaze.
+You can soon make out what they are:
+Kobolds! They see you and shout, then move
+quickly forward.
+In their broken Common, the one who
+appears to be the leader addresses you.
+“Pay up, human! 5 gold to pass this way. All
+must pay the toll.”
+♦ Do you pay the gold? If so, go to entry
+PAYTOLL
+♦ If not, go to entry TOLLBEDAMNED

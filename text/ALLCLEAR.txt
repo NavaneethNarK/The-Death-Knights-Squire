@@ -1,0 +1,7 @@
+You search around the door but find nothing
+trap-like. (continue across…)
+♦ To try and open the door, go to entry
+OPENSTONEDOOR
+♦ To leave and continue north, go back to
+Tilepage 3 and continue from the last line
+you read

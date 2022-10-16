@@ -1,0 +1,14 @@
+You give it a reasonable look over, but decide
+that the entrance is not booby-trapped.
+Gingerly, you ease the gates open. The metal
+seems to be relatively rust-free and does not
+creak as you expected it would. Easing
+yourself within the gates, you grasp the
+handle of the left stone door and lean back. It
+swings smoothly out.
+♦ Do you know the spell Detect Evil and
+Good? You can cast this by going to
+entry DETECTEVIL
+♦ Alternately, you can simply proceed
+inside. Go to entry
+CROSSTHRESHOLD

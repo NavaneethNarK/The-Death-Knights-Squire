@@ -1,0 +1,7 @@
+Roll a d100
+♦ If you roll 0-33 go to entry
+MIDNIGHTSNACK
+♦ If you roll 34-66 go to entry
+DISTURBED
+♦ If you roll 67-100 go to entry
+NIGHTNIGHT

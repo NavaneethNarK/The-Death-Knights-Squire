@@ -1,0 +1,3 @@
+Roll perception, DC 10.
+♦ If you succeed, go to WHATTRAPS?
+♦ If you fail, go to TRAPSWHAT

@@ -1,0 +1,19 @@
+Suddenly something gives way under your
+feet. You fall about 10 ft, landing heavily in
+a deep pit. It winds you, and you get to your
+feet shakily, cursing your carelessness.
+Take 1d6 fall damage
+Looking around, you decide that you had
+better get out of this pit trap as quickly as
+possible, before whoever dug it returns!
+♦ Do you have rope? If so, go to entry
+ROPEESCAPE
+♦ Do you know the spell Jump? If so, go
+to JUMPESCAPE
+♦ Are you a variant tiefling (Sword Coast
+Adventurer’s Guide) or do you have some
+other way of flying? Go to entry
+FLYESCAPE
+♦ Otherwise you could try carving steps
+into the dirt walls with your weapon. Go
+to entry DIGESCAPE
